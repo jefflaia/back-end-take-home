@@ -1,0 +1,7 @@
+AirlineId,Name,TwoDigitCode,ThreeDigitCode,Country
+0,Air Canada,AC,ACA,Canada
+0,China Southern Airlines,CZ,CSN,China
+0,Southwest Airlines,WN,SWA,United States
+0,Turkish Airlines,TK,THY,Turkey
+0,United Airlines,UA,UAL,United States
+0,WestJet,WS,WJA,Canada

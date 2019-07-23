@@ -1,0 +1,7 @@
+RouteId,AirlineId,Origin,Destination
+0,AC,YYZ,JFK
+0,AC,JFK,YYZ
+0,AC,LAX,YVR
+0,AC,YVR,LAX
+0,UA,LAX,JFK
+0,UA,JFK,LAX
